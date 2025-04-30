@@ -53,7 +53,7 @@ const Hyrox = () => {
           <div className="w-full flex">
             <p className="pt-6">Follow us |</p>
             <p>
-              <Link href="">
+              <Link href="https://www.facebook.com/share/g/1ANzfuGPub/?mibextid=wwXIfr ">
                 <FaFacebook className="mt-6 ml-4 h-6 w-6" />
               </Link>
             </p>
