@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Navbar from "./components/Navbar";
 import TheWorld from "./components/TheWorld";
 import OurSport from "./components/OurSport";
