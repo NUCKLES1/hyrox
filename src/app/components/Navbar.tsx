@@ -1,8 +1,6 @@
 "use client";
-import Link from "next/link";
+
 import React, { useState } from "react";
-import Image from "next/image";
-import vector from "../images/Vector.png";
 import { CiMenuBurger } from "react-icons/ci";
 import { LiaTimesSolid } from "react-icons/lia";
 
