@@ -25,7 +25,7 @@ const About = () => {
         </div>
       </div>
       <div className="w-[50%] max-sm:w-full max-sm:mt-22 max-sm:h-80 h-[110vh]">
-        <Image src="/leg.jpg" width={100} height={100} alt="" className="w-full h-full object-cover"/> 
+        <Image src="/leg.jpg" width={800} height={800} alt="" className="w-full h-full object-cover"/> 
         </div>
     </div>
   </div>

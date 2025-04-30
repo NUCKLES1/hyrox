@@ -40,8 +40,8 @@ const OurSport = () => {
         <div className="w-[50%] max-sm:w-full max-sm:mt-22 max-sm:h-80 h-[90vh]">
           <Image
             src="/gym.jpg"
-            width={100}
-            height={100}
+            width={800}
+            height={800}
             alt=""
             className="w-full h-full object-cover"
           />
